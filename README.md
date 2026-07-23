@@ -2,8 +2,7 @@
 
 Cloudie is a personal, offline voice assistant for Windows — built as a side project to explore fully local AI (no cloud APIs, no data leaving your machine).
 
-> **Status: Work in progress.** Cloudie is functional but not polished. Development is currently paused (Ollama was uninstalled locally to free up disk space) but will resume.
-
+> **Status: Work in progress.** Core functionality (offline speech recognition, local LLM responses, app launching) is working. Currently paused while exploring ways to make Ollama more lightweight — actively planning next iteration.
 ---
 
 ## What it does
