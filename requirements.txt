@@ -1,0 +1,5 @@
+requests
+keyboard
+pyttsx3
+vosk
+sounddevice
