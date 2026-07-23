@@ -55,4 +55,4 @@ Cloudie is **not** always listening. It only activates when you press **`Ctrl + 
 
 ---
 
-Built as a personal project to learn about offline-first AI tooling.
+Built as a personal project to learn about offline-first AI tooling, with some help from Claude for debugging and structuring along the way.
